@@ -1,0 +1,14 @@
+# Operating system metadata
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Ableton's SDK license prohibits redistributing the SDK outside an application
+/extensions-sdk-1.0.0-beta.1/
+
+# Editor and backup files
+*.swp
+*.swo
+*~
+*.bak
+*.bak.*
